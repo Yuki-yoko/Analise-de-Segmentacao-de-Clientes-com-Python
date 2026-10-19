@@ -82,15 +82,14 @@ Mostra como o nível de gastos (*Low*, *Average* e *High*) se distribui dentro d
 - Matplotlib
 - Jupyter Notebook
 
-## 📂 Estrutura do Projeto
+##  Estrutura do Projeto
 
 ```
 ├── Customer_Segmentation.ipynb   # Notebook com toda a análise
-├── train.csv                     # Dataset
-├── imagens/                      # Prints dos gráficos
-│   ├── grafico_barras_segmento.png
-│   ├── grafico_pizza_genero.png
-│   └── grafico_empilhado_spending_score.png
+├── train.csv                     # Dataset                   
+├── grafico_barras_segmento.png # Prints dos gráficos
+├── grafico_pizza_genero.png
+├── grafico_empilhado_spending_score.png
 └── README.md                     # Documentação do projeto
 ```
 
